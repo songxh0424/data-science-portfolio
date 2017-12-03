@@ -1,0 +1,4 @@
+* Data Science Portfolio
+This is a repository for some of my past projects in data science.
+ - [[http://rpubs.com/songxh0424/336831][Imbalanced Classification on Bankruptcy Prediction]]: Some description
+ - [[http://rpubs.com/songxh0424/336722][Analyzing Movie Scores on IMDb and Rotten Tomatoes]]: Some description.
