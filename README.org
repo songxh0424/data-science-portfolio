@@ -2,16 +2,21 @@
 This is a repository for some of my past projects in data science.
 ** Past Projects
    - [[http://rpubs.com/songxh0424/336831][Imbalanced Classification on Bankruptcy Prediction]]: This project employs several techniques, including SMOTE sampling and ROC curve, to tackle the inherent imbalance in bankruptcy data and builds machine learning models for bankruptcy prediction. Repeated cross-validation and alternative performance measures are used to evaluate models. Best models are selected based on cv ROC AUC values. The project is carried out using R, especially focusing on the usage of model training package =caret=. [[https://github.com/songxh0424/bankruptcy][Here]] is a link to the project repository. 
+
    - [[http://rpubs.com/songxh0424/336722][Analyzing Movie Scores on IMDb and Rotten Tomatoes]]: I love movies. I'm also intrigued by how movie websites rate movies and the fact that their ratings on the same movie can be vastly different. This project uses data visualization in =ggplot2= to demonstrate IMDb and RT's different behaviors in reviewing movies. I also made some top 10 lists of directors, actors or movies based movie ratings. Computational tools used in this project include SparkSQL, Python and R. [[https://github.com/songxh0424/projectA][Here]] is a link to the project repository.
+     
+   - [[http://rpubs.com/songxh0424/340988][Overwatch Player Statistics and Hero Usage Analysis]]: Scraped data from the Overwatch career profile pages of 16,500 Overwatch players. Used data visualization to investigate the relationships between player performance, hero usage and skill rating. I also performed PCA and clustering analysis to categorize different types of players based on their hero usage patterns. [[https://github.com/songxh0424/Overwatch-Analysis][Link]] to the project repository.
+     
+   - [[https://github.com/songxh0424/UMsoccer][Injury Analysis for U of M Soccer Team]]: I was in a multidisciplinary team of four U of M students. We were tasked by the university athletics department to analyze soccer team's training data and injury log. The objective is to find out correlations between training intensity and injury occurrence. 
 ** Frequently Used Packages
-   - **R**
+   - *R*
      + =tidyverse=
      + =caret=
-   - **Python**
+   - *Python*
      + =numpy=
      + =pandas=
 ** IDEs
-   - **RStudio**
-   - **Vim + Tmux + Slime**
-   - **Spacemacs**
+   - *RStudio*
+   - *Vim + Tmux + Slime*
+   - *Spacemacs*
 
