@@ -2,6 +2,8 @@
 This is a repository for some of my past projects in data science.
 ** Past Projects
    - [[http://rpubs.com/songxh0424/336831][Imbalanced Classification on Bankruptcy Prediction]]: This project employs several techniques, including SMOTE sampling and ROC curve, to tackle the inherent imbalance in bankruptcy data and builds machine learning models for bankruptcy prediction. Repeated cross-validation and alternative performance measures are used to evaluate models. Best models are selected based on cv ROC AUC values. The project is carried out using R, especially focusing on the usage of model training package =caret=. [[https://github.com/songxh0424/bankruptcy][Here]] is a link to the project repository. 
+     
+   - [[https://rpubs.com/songxh0424/341895][Deep Dive into Airbnb Listing Data:]] This is the product of an one-day datathon hosted by Citadel LLC. We had seven hours to come up with a data analysis report using [[http://insideairbnb.com/get-the-data.html][Airbnb listing data]]. We ended up being the third place out of 24 teams. Our report delves into aspects from investigating the relationships between keywords in listing names and listing price, to using machine learning techniques to predict listing price based on the housing condition. 
 
    - [[http://rpubs.com/songxh0424/336722][Analyzing Movie Scores on IMDb and Rotten Tomatoes]]: I love movies. I'm also intrigued by how movie websites rate movies and the fact that their ratings on the same movie can be vastly different. This project uses data visualization in =ggplot2= to demonstrate IMDb and RT's different behaviors in reviewing movies. I also made some top 10 lists of directors, actors or movies based movie ratings. Computational tools used in this project include SparkSQL, Python and R. [[https://github.com/songxh0424/projectA][Here]] is a link to the project repository.
      
@@ -19,7 +21,7 @@ This is a repository for some of my past projects in data science.
 ** IDEs
    - *RStudio*: I used it when I first started to learn R. It has a great layout and the best R code completion I've seen. But eventually I ditched it for the flexibility and efficiency of Vim and the constant need to go into terminal.
    - *Vim + Tmux + Slime*: I used Vim for all my text file editing later on. Tmux can help me create custom layout and Slime plugin for Vim can send any code from Vim to a terminal/console. I used this combo for both R and Python. It works well with IPython and Pyspark as well. 
-   - *Spacemacs*: Spacemacs is a community-driven Emacs distribution that takes the advantages of Vim and Emacs. It can launch terminals, R and Python sessions all within the same screen. Most of my data science work can be done in Spacemacs and I rarely need to go to another screen other than Chrome. On top of that, it has wonderful documentation both online and built-in.
+   - *Spacemacs*: Spacemacs is a community-driven Emacs distribution that takes the advantages of Vim and Emacs. It can launch terminals, R and Python sessions all within the same screen. And all commands are just a few key strokes away. Most of my data science work can be done in Spacemacs and I rarely need to go to another screen other than Chrome. On top of that, it has wonderful documentation both online and built-in.
      
 My setup for the last two can be found [[https://github.com/songxh0424/config][here]].
 
