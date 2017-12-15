@@ -19,7 +19,7 @@ This is a repository for some of my past projects in data science.
 ** IDEs
    - *RStudio*: I used it when I first started to learn R. It has a great layout and the best R code completion I've seen. But eventually I ditched it for the flexibility and efficiency of Vim and the constant need to go into terminal.
    - *Vim + Tmux + Slime*: I used Vim for all my text file editing later on. Tmux can help me create custom layout and Slime plugin for Vim can send any code from Vim to a terminal/console. I used this combo for both R and Python. It works well with IPython and Pyspark as well. 
-   - *Spacemacs*: Spacemacs is a community-driven Emacs distribution that takes the advantages of Vim and Emacs. It can launch terminals, R and Python sessions all within the same screen. Most of my data science work can be done in Spacemacs and I rarely need to go to another screen other than Chrome. On top of that, it has wonderful documentation both online and built-in.
+   - *Spacemacs*: Spacemacs is a community-driven Emacs distribution that takes the advantages of Vim and Emacs. It can launch terminals, R and Python sessions all within the same screen. And all commands are just a few keystrokes away. Most of my data science work can be done in Spacemacs and I rarely need to go to another screen other than Chrome. On top of that, it has wonderful documentation both online and built-in.
      
 My setup for the last two can be found [[https://github.com/songxh0424/config][here]].
 
